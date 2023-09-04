@@ -6,5 +6,3 @@
 - 🙋‍♂️I am 14 years old.
 - 👨‍💻I create Python codes for Discord and Telegram.
 - 🔧My name is ****.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blaing7542&show_icons=true)
