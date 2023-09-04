@@ -7,4 +7,4 @@
 - 👨‍💻I create Python codes for Discord and Telegram.
 - 🔧My name is ****.
 
-[![My statistics](https://github-readme-stats.vercel.app/api?username=Blaing7542&count_private=true&hide=contribs&show_icons=true&)](https://github.com/Blaing7542)
+[![My statistics](ttps://github-readme-stats.vercel.app/api?username=Blaing7542&count_private=true&hide=contribs&show_icons=true&)](https://github.com/Blaing7542)
