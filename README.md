@@ -5,4 +5,3 @@
 ### Info:
 - 🙋‍♂️I am 14 years old.
 - 👨‍💻I create Python codes for Discord and Telegram.
-- 🔧My name is ****.
